@@ -1,4 +1,0 @@
-importfilelist
-{
-	"file"	"table_cafeteria_is_unused.vmt"
-}

@@ -1,4 +1,0 @@
-importfilelist
-{
-	"file"	"piano_is_unused.vmt"
-}

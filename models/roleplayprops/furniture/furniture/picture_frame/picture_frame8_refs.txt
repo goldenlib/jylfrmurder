@@ -1,4 +1,0 @@
-importfilelist
-{
-	"file"	"pictures_is_unused.vmt"
-}

@@ -1,5 +1,0 @@
-importfilelist
-{
-	"file"	"sconce_is_unused.vmt"
-	"file"	"brass_is_unused.vmt"
-}

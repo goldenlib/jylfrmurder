@@ -1,4 +1,0 @@
-importfilelist
-{
-	"file"	"magazine_rack_is_unused.vmt"
-}

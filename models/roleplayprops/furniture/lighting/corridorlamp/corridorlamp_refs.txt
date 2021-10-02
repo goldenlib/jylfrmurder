@@ -1,4 +1,0 @@
-importfilelist
-{
-	"file"	"boutique_walllamp_is_unused.vmt"
-}

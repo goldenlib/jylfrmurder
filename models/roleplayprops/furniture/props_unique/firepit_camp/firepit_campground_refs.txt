@@ -1,4 +1,0 @@
-importfilelist
-{
-	"file"	"firepit_campground_is_unused.vmt"
-}

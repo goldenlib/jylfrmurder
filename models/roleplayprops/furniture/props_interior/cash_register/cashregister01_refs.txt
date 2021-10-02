@@ -1,4 +1,0 @@
-importfilelist
-{
-	"file"	"CashRegister01_is_unused.vmt"
-}

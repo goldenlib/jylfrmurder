@@ -1,4 +1,0 @@
-importfilelist
-{
-	"file"	"shelfset_03_is_unused.vmt"
-}

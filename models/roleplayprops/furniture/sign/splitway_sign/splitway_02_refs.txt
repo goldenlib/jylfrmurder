@@ -1,5 +1,0 @@
-importfilelist
-{
-	"file"	"splitway_02_is_unused.vmt"
-	"file"	"stopsign_01_is_unused.vmt"
-}

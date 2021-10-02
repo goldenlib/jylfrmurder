@@ -1,4 +1,0 @@
-importfilelist
-{
-	"file"	"bed_is_unused.vmt"
-}

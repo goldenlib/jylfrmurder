@@ -1,4 +1,0 @@
-importfilelist
-{
-	"file"	"printer_is_unused.vmt"
-}

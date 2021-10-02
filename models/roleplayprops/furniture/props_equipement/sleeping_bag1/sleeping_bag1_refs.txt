@@ -1,4 +1,0 @@
-importfilelist
-{
-	"file"	"sleeping_bag1_is_unused.vmt"
-}

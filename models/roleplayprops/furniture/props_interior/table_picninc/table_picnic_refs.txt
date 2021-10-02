@@ -1,4 +1,0 @@
-importfilelist
-{
-	"file"	"table_picnic_is_unused.vmt"
-}

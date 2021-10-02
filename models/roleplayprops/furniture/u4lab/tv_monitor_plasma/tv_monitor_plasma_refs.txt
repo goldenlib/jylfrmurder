@@ -1,4 +1,0 @@
-importfilelist
-{
-	"file"	"SE1_tv_monitor_plasma_01_is_unused.vmt"
-}
