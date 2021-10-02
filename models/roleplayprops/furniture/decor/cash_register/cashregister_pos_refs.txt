@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"cashregister_01_is_unused.vmt"
+}

@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"Patio_ChairWhite_is_unused.vmt"
+}

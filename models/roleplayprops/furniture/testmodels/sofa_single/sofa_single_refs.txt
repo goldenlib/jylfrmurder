@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"sofa_Skin_black_is_unused.vmt"
+}

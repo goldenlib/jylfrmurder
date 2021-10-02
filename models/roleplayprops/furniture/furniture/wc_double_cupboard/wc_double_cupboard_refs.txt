@@ -1,0 +1,7 @@
+importfilelist
+{
+	"file"	"Wood_Chocolate_is_unused.vmt"
+	"file"	"Wood_Ash_is_unused.vmt"
+	"file"	"Wood_Chocolate2_is_unused.vmt"
+	"file"	"Wood_Slate_is_unused.vmt"
+}

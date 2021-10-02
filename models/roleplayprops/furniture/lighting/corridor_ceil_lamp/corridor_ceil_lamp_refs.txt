@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"corridor_ceil_lamp_is_unused.vmt"
+}

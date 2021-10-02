@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"phone_booth_is_unused.vmt"
+}

@@ -1,0 +1,67 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "glass.vfx"
+
+	//---- Translucent ----
+	F_TRANSLUCENT 1
+
+	//---- Ambient Occlusion ----
+	TextureAmbientOcclusion "materials/default/default_ao.tga"
+
+	//---- Color ----
+	g_flModelTintAmount "1.000"
+	g_vColorTint "[0.686275 0.686275 0.686275 1.000000]"
+	TextureColor "materials/default/default_color.tga"
+
+	//---- Emissive ----
+	g_flEmissiveEdgeColorFalloff "3.000"
+	g_flEmissiveEdgeColorThickness "0.100"
+	g_flEmissiveStrength "0.500"
+	g_vEmissiveColor "[0.000000 0.000000 0.000000 0.000000]"
+	g_vEmissiveEdgeColor "[0.000000 0.000000 0.000000 0.000000]"
+
+	//---- Fade ----
+	g_flFadeExponent "1.000"
+
+	//---- Fog ----
+	g_bAvoidDoubleFogging "1"
+	g_flGlassFogExtinctionAmount "0.000"
+
+	//---- Glass Color ----
+	g_flEdgeColorFalloff "3.000"
+	g_flEdgeColorMaxOpacity "0.500"
+	g_flEdgeColorThickness "0.100"
+	g_vEdgeColor "[0.000000 0.000000 0.000000 0.000000]"
+	GlassTintColor "materials/default/default_color.tga"
+
+	//---- Lighting ----
+	g_flDirectionalLightmapMinZ "0.050"
+	g_flDirectionalLightmapStrength "1.000"
+
+	//---- Metalness ----
+	g_flMetalness "0.000"
+
+	//---- Normal ----
+	TextureNormal "materials/default/default_normal.tga"
+
+	//---- Roughness ----
+	TextureRoughness "[0.184314 0.184314 0.184314 1.000000]"
+
+	//---- Texture Coordinates ----
+	g_nScaleTexCoordUByModelScaleAxis "0"
+	g_nScaleTexCoordVByModelScaleAxis "0"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	g_vTexCoordScrollSpeed "[0.000 0.000]"
+
+	//---- Translucent ----
+	g_flOpacityScale "0.069"
+	TextureTranslucency "[0.479000 0.479000 0.479000 0.000000]"
+
+	SystemAttributes
+	{
+		PhysicsSurfaceProperties "glass"
+	}
+}

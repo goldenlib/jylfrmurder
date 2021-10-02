@@ -1,0 +1,16 @@
+importfilelist
+{
+	"file"	"Painting_Portrait_A_is_unused.vmt"
+	"file"	"Poster_backing_is_unused.vmt"
+	"file"	"Painting_Portrait_B_is_unused.vmt"
+	"file"	"Painting_Portrait_C_is_unused.vmt"
+	"file"	"Painting_Portrait_D_is_unused.vmt"
+	"file"	"Painting_Portrait_E_is_unused.vmt"
+	"file"	"Painting_Portrait_F_is_unused.vmt"
+	"file"	"Painting_Portrait_G_is_unused.vmt"
+	"file"	"Painting_Portrait_H_is_unused.vmt"
+	"file"	"Painting_Portrait_I_is_unused.vmt"
+	"file"	"Painting_Portrait_J_is_unused.vmt"
+	"file"	"Painting_Portrait_K_is_unused.vmt"
+	"file"	"Painting_Portrait_L_is_unused.vmt"
+}

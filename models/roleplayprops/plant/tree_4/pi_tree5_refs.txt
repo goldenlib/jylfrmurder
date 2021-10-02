@@ -1,0 +1,8 @@
+importfilelist
+{
+	"file"	"japanese_tree_round_04_is_unused.vmt"
+	"file"	"japanese_tree_round_03_is_unused.vmt"
+	"file"	"japanese_tree_round_05_is_unused.vmt"
+	"file"	"japanese_tree_round_02_is_unused.vmt"
+	"file"	"JAPANESE_TREE_BARK_02_is_unused.vmt"
+}

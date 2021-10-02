@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"suitetv_is_unused.vmt"
+}

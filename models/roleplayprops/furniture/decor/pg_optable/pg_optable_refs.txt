@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"pg_opTable_is_unused.vmt"
+	"file"	"pg_opTable_skin2_is_unused.vmt"
+}

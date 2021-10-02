@@ -1,0 +1,6 @@
+importfilelist
+{
+	"file"	"macbook_vanilla_is_unused.vmt"
+	"file"	"macbook_login_is_unused.vmt"
+	"file"	"macbook_broken_is_unused.vmt"
+}

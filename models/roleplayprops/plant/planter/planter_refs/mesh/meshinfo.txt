@@ -1,0 +1,4 @@
+{
+"staticprop": 1,
+"numuvs": 1
+}

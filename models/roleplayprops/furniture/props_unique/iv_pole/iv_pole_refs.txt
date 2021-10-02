@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"IV_pole_is_unused.vmt"
+}

@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"Lamp6_is_unused.vmt"
+	"file"	"Lamp6B_is_unused.vmt"
+}

@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"coffee_table_wood_is_unused.vmt"
+}

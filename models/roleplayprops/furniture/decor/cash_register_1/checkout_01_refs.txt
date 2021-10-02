@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"checkout_02_is_unused.vmt"
+}

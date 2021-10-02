@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"shellsign_is_unused.vmt"
+	"file"	"toolsnodraw_is_unused.vmt"
+}

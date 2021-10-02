@@ -1,0 +1,6 @@
+importfilelist
+{
+	"file"	"lattice_is_unused.vmt"
+	"file"	"fountain_bowl_is_unused.vmt"
+	"file"	"flower_barrel_is_unused.vmt"
+}

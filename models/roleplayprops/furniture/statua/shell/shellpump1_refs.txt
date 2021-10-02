@@ -1,0 +1,8 @@
+importfilelist
+{
+	"file"	"shellplate1_is_unused.vmt"
+	"file"	"shellmetal1_is_unused.vmt"
+	"file"	"shellmetal2_is_unused.vmt"
+	"file"	"toolsnodraw_is_unused.vmt"
+	"file"	"shelldetails1_is_unused.vmt"
+}

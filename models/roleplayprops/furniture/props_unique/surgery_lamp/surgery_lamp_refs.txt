@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"surgery_lamp_is_unused.vmt"
+	"file"	"surgery_lamp_on_is_unused.vmt"
+}

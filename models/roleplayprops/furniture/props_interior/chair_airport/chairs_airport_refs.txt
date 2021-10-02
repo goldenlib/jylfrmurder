@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"chairs_airport_is_unused.vmt"
+}

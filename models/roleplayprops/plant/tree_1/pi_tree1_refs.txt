@@ -1,0 +1,8 @@
+importfilelist
+{
+	"file"	"g_branch05_is_unused.vmt"
+	"file"	"g_branch03_is_unused.vmt"
+	"file"	"g_branch02_is_unused.vmt"
+	"file"	"g_branch01_is_unused.vmt"
+	"file"	"trunk35_is_unused.vmt"
+}

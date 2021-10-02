@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"patio_chair2_is_unused.vmt"
+}

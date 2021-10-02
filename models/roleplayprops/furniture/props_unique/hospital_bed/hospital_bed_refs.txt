@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"hospital_bed_is_unused.vmt"
+}

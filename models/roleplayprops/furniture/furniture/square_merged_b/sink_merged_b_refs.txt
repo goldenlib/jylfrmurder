@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"obj_squaresink_is_unused.vmt"
+}

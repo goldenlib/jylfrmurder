@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"Refrigerator02_is_unused.vmt"
+}

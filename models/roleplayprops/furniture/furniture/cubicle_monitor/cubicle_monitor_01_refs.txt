@@ -1,0 +1,7 @@
+importfilelist
+{
+	"file"	"MonitorScreen_01_is_unused.vmt"
+	"file"	"MonitorBase_01_is_unused.vmt"
+	"file"	"MonitorScreen_02_is_unused.vmt"
+	"file"	"MonitorScreen_03_is_unused.vmt"
+}

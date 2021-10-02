@@ -1,0 +1,6 @@
+importfilelist
+{
+	"file"	"SE1_desk_office_middle_01_is_unused.vmt"
+	"file"	"SE1_desk_office_top_01_is_unused.vmt"
+	"file"	"SE1_desk_office_glass_01_is_unused.vmt"
+}
