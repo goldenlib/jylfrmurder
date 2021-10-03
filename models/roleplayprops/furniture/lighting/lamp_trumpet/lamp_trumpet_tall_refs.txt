@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"trumpet_lamp_is_unused.vmt"
+}

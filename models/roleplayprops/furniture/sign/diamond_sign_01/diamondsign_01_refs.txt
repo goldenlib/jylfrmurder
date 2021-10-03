@@ -1,0 +1,6 @@
+importfilelist
+{
+	"file"	"diamondsign_001_is_unused.vmt"
+	"file"	"stopsign_01_is_unused.vmt"
+	"file"	"diamondsign_001rr_is_unused.vmt"
+}

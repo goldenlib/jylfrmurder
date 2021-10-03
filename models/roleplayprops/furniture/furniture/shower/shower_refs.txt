@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"obj_shower_is_unused.vmt"
+}

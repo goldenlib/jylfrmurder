@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"shelfset_02_is_unused.vmt"
+}

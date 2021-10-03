@@ -1,0 +1,15 @@
+importfilelist
+{
+	"file"	"roadsign1_is_unused.vmt"
+	"file"	"roadsign12_is_unused.vmt"
+	"file"	"roadsign13_is_unused.vmt"
+	"file"	"roadsign14_is_unused.vmt"
+	"file"	"roadsign15_is_unused.vmt"
+	"file"	"roadsign16_is_unused.vmt"
+	"file"	"roadsign17_is_unused.vmt"
+	"file"	"roadsign18_is_unused.vmt"
+	"file"	"roadsign19_is_unused.vmt"
+	"file"	"roadsign20_is_unused.vmt"
+	"file"	"roadsign21_is_unused.vmt"
+	"file"	"roadsign22_is_unused.vmt"
+}

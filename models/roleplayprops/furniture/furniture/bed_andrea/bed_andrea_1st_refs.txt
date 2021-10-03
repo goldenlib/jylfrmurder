@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"furn_bed_andrea1st_is_unused.vmt"
+}

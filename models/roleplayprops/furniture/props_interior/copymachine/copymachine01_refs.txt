@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"CopyMachine01_is_unused.vmt"
+}

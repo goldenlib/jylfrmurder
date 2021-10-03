@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"patio_umbrella_is_unused.vmt"
+	"file"	"patio_table2_is_unused.vmt"
+}

@@ -1,0 +1,9 @@
+importfilelist
+{
+	"file"	"metalwall013a_is_unused.vmt"
+	"file"	"train_metalceiling_02_is_unused.vmt"
+	"file"	"metalwall020a_is_unused.vmt"
+	"file"	"metalwall058a_is_unused.vmt"
+	"file"	"metalrail012c_is_unused.vmt"
+	"file"	"metalstainless01_is_unused.vmt"
+}

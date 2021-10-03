@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"bar_is_unused.vmt"
+}

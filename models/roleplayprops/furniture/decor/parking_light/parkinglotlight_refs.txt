@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"lampost1_01_is_unused.vmt"
+}

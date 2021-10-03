@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"lantern_on_is_unused.vmt"
+	"file"	"lantern_glass_on_is_unused.vmt"
+}

@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"desk_motel_is_unused.vmt"
+}

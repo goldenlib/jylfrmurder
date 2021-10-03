@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"Bathtub01_is_unused.vmt"
+}

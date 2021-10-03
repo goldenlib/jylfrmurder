@@ -1,0 +1,8 @@
+importfilelist
+{
+	"file"	"apple_display_vanilla_is_unused.vmt"
+	"file"	"apple_display_off_is_unused.vmt"
+	"file"	"apple_display_broken_is_unused.vmt"
+	"file"	"apple_display_login_is_unused.vmt"
+	"file"	"apple_display_filth_is_unused.vmt"
+}

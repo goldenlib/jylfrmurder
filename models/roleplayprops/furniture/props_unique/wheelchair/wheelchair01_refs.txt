@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"WheelChair01_is_unused.vmt"
+}

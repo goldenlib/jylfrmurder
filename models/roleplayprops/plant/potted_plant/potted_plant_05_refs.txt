@@ -1,0 +1,7 @@
+importfilelist
+{
+	"file"	"plant_pot_04_is_unused.vmt"
+	"file"	"PlantPotBase_01_is_unused.vmt"
+	"file"	"plant_pot_03_is_unused.vmt"
+	"file"	"plant_09_is_unused.vmt"
+}

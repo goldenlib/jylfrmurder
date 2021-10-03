@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"models/props_downtown/bed_motel_is_unused.vmt"
+}

@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"bkbooth_01_is_unused.vmt"
+}

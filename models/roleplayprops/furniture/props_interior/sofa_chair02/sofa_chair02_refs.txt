@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"sofa_chair_is_unused.vmt"
+}

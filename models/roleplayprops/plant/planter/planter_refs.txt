@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"flowerbed2_is_unused.vmt"
+	"file"	"planter_is_unused.vmt"
+}

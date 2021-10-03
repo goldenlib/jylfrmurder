@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"vestbl_is_unused.vmt"
+	"file"	"chanttbl_is_unused.vmt"
+}

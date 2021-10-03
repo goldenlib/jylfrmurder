@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"sleeping_bag2_is_unused.vmt"
+}

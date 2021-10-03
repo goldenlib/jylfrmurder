@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"lamps_off_is_unused.vmt"
+	"file"	"lamps_on_is_unused.vmt"
+}

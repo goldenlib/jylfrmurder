@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"furn_barstool_is_unused.vmt"
+}

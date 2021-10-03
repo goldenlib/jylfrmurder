@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"light_fixture01_is_unused.vmt"
+	"file"	"light_fixture01_on_is_unused.vmt"
+}

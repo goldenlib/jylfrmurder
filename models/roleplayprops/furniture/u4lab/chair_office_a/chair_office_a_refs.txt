@@ -1,0 +1,6 @@
+importfilelist
+{
+	"file"	"SE1_chair_office_01_is_unused.vmt"
+	"file"	"SE1_chair_mesh_01_is_unused.vmt"
+	"file"	"SE1_chair_office_02_is_unused.vmt"
+}
